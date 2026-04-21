@@ -67,7 +67,7 @@ const projects = [
     description: "A collection of projects that allow users to interact with different simulators and games. It's meant to be messed around with no specific goal in mind",
     image: null,
     demo: null,
-    github: https://github.com/TheGreatRy/CPlusSandbox,
+    github: 'https://github.com/TheGreatRy/CPlusSandbox',
   },
 ]
 </script>
