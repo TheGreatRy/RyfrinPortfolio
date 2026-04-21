@@ -2,7 +2,7 @@
   <div class="app-window">
 
     <div class="title-bar">
-      <span class="title-bar-text">&#128196; Ry — Portfolio</span>
+      <span class="title-bar-text">°˖✧◝(⁰▿⁰)◜ NAVBAR 。✧˖°</span>
       <div class="title-bar-controls">
         <button class="title-btn">&#8722;</button>
         <button class="title-btn">&#9633;</button>
@@ -11,15 +11,15 @@
     </div>
 
     <nav class="menubar">
-      <RouterLink to="/" class="nav-logo">☕</RouterLink>
+      <RouterLink to="/" class="nav-logo">(ˇ▽ˇ)ノ♪♬♫ RETURN HOME ♪♬♫</RouterLink>
       <ul class="nav-links">
-        <li><RouterLink to="/">Home</RouterLink></li>
-        <li><RouterLink to="/projects">Projects</RouterLink></li>
-        <li><RouterLink to="/about">About</RouterLink></li>
-        <li><RouterLink to="/contact">Contact</RouterLink></li>
+        <li><RouterLink to="/">HOME</RouterLink></li>
+        <li><RouterLink to="/projects">PROJECTS</RouterLink></li>
+        <li><RouterLink to="/about">ABOUT</RouterLink></li>
+        <li><RouterLink to="/contact">CONTACT</RouterLink></li>
       </ul>
       <button class="darkmode-toggle" @click="toggleDark" :title="isDark ? 'Switch to Light Mode' : 'Switch to Dark Mode'">
-        {{ isDark ? '☀' : '🌙' }}
+        {{ isDark ? '〣( ºΔº )〣' : '(－－) zzZ' }}
       </button>
     </nav>
 
@@ -31,7 +31,7 @@
 
     <div class="status-bar">
       <span class="status-pane">Ready</span>
-      <span class="status-pane">&copy; {{ year }} Ry. All rights reserved.</span>
+      <span class="status-pane">&copy; {{ year }} CinnaS0ULBytes. All rights reserved.</span>
     </div>
 
   </div>

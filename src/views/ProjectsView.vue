@@ -3,7 +3,7 @@
     <DraggablePanel
       v-for="(project, i) in projects"
       :key="project.title"
-      :title="'📁 ' + project.title"
+      :title="project.title"
       :initial-x="20 + i * 45"
       :initial-y="12 + i * 42"
       :width="610"
@@ -11,7 +11,7 @@
     >
       <div class="project-window">
         <div class="project-image">
-          <img :src="project.image" :alt="`${project.title} screenshot`" />
+          <img :src="project.image" :alt="`${project.title} screenshot`"/>
         </div>
         <div class="project-info">
           <p class="project-tags">{{ project.tags.join(' · ') }}</p>

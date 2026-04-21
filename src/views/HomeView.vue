@@ -1,9 +1,9 @@
 <template>
   <div class="page-home">
 
-    <DraggablePanel title="Ry — Portfolio" :initial-x="0" :initial-y="0" :width="552" :height="510">
+    <DraggablePanel title="~ヾ(・ω・) BRIEF INTRO ⊂(´• ω •⊂)" :initial-x="0" :initial-y="0" :width="552" :height="510">
       <div class="hero-banner">
-        <span>SO MUCH TO CLICK ON!</span>
+        <span>(￣▽￣)/♫•*¨*•.¸¸♪ WELCOME!!! TRY DRAGGING THE WINDOWS! ♪♬♫</span>
       </div>
       <div class="hero-content">
         <p class="hero-greeting">Hi, I'm</p>
@@ -17,7 +17,7 @@
       </div>
     </DraggablePanel>
 
-    <DraggablePanel title="What I Do" :initial-x="570" :initial-y="32" :width="332" :height="474">
+    <DraggablePanel title="(ノ°∀°)ノ⌒･*:.｡. SKILLS .｡.:*･゜ﾟ･*☆" :initial-x="570" :initial-y="32" :width="332" :height="474">
       <div class="card-grid">
         <div v-for="skill in skills" :key="skill.title" class="card">
           <div class="card-icon">{{ skill.icon }}</div>
@@ -42,12 +42,12 @@ const skills = [
     description: '[Short description of this skill or service area.]',
   },
   {
-    icon: '(｡•̀ᴗ-)✧',
+    icon: '(｡•̀ᴗ-):･ﾟ✧',
     title: '[Skill Area 2]',
     description: '[Short description of this skill or service area.]',
   },
   {
-    icon: '(ﾉ◕ヮ◕)ﾉ:･ﾟ✧',
+    icon: '╮(︶▽︶)╭',
     title: '[Skill Area 3]',
     description: '[Short description of this skill or service area.]',
   },

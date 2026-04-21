@@ -1,7 +1,7 @@
 <template>
   <div class="page-contact">
 
-    <DraggablePanel title="📧 Contact Info" :initial-x="0" :initial-y="0" :width="285" :height="505">
+    <DraggablePanel title="Contact Info" :initial-x="0" :initial-y="0" :width="285" :height="505">
       <p class="contact-blurb">[A short, welcoming message — e.g., "Whether you have a project in mind, a question, or just want to say hello, I'd love to hear from you."]</p>
       <ul class="contact-details">
         <li>
