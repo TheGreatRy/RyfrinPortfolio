@@ -6,15 +6,15 @@
       <ul class="contact-details">
         <li>
           <strong>Email:</strong>
-          <a href="mailto:[your@email.com]">[your@email.com]</a>
+          <a href="mailto:ryellender922@gmail.com">ryellender922@gmail.com</a>
         </li>
         <li>
           <strong>LinkedIn:</strong>
-          <a href="https://linkedin.com/in/[yourhandle]" target="_blank" rel="noopener">[Your LinkedIn]</a>
+          <a href="https://www.linkedin.com/in/ry-ellender" target="_blank" rel="noopener">LinkedIn</a>
         </li>
         <li>
           <strong>GitHub:</strong>
-          <a href="https://github.com/[yourhandle]" target="_blank" rel="noopener">[Your GitHub]</a>
+          <a href="https://github.com/TheGreatRy" target="_blank" rel="noopener">GitHub</a>
         </li>
       </ul>
     </DraggablePanel>

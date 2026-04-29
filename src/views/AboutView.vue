@@ -10,12 +10,12 @@
           <p>[Introduction paragraph — who you are, where you're based, and what drives you.]</p>
           <p>[Background paragraph — your education, career path, or how you got into this field.]</p>
           <p>[Personal paragraph — hobbies, interests, or what you're currently learning.]</p>
-          <a href="/resume.pdf" class="btn btn-primary" target="_blank" rel="noopener">Download Resume</a>
+          <a href="https://docs.google.com/document/d/1hioO0tbCnXx8LrOu3DDs9StVI7859RIG/edit?usp=sharing&ouid=104149247499884184740&rtpof=true&sd=true" class="btn btn-primary" target="_blank" rel="noopener">Download Resume</a>
         </div>
       </div>
     </DraggablePanel>
 
-    <DraggablePanel title="🛠 Skills &amp; Technologies" :initial-x="576" :initial-y="18" :width="326" :height="225">
+    <DraggablePanel title="Skills &amp; Technologies" :initial-x="576" :initial-y="18" :width="326" :height="225">
       <div class="skills-grid">
         <div v-for="group in skillGroups" :key="group.category" class="skill-group">
           <h3>{{ group.category }}</h3>
