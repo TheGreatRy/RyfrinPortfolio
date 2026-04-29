@@ -7,10 +7,10 @@ import ContactView from '../views/ContactView.vue'
 export const router = createRouter({
   history: createWebHistory(),
   routes: [
-    { path: '/',         component: HomeView },
-    { path: '/projects', component: ProjectsView },
-    { path: '/about',    component: AboutView },
-    { path: '/contact',  component: ContactView },
+    { path: '/RyfrinPortfolio/',         component: HomeView },
+    { path: '/RyfrinPortfolio/projects', component: ProjectsView },
+    { path: '/RyfrinPortfolio/about',    component: AboutView },
+    { path: '/RyfrinPortfolio/contact',  component: ContactView },
   ],
   scrollBehavior: () => ({ top: 0 }),
 })
