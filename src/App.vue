@@ -13,10 +13,10 @@
     <nav class="menubar">
       <RouterLink to="/" class="nav-logo">(ˇ▽ˇ)ノ♪♬♫ RETURN HOME ♪♬♫</RouterLink>
       <ul class="nav-links">
-        <li><RouterLink to="/">HOME</RouterLink></li>
-        <li><RouterLink to="/projects">PROJECTS</RouterLink></li>
-        <li><RouterLink to="/about">ABOUT</RouterLink></li>
-        <li><RouterLink to="/contact">CONTACT</RouterLink></li>
+        <li><RouterLink to="/RyfrinPortfolio/">HOME</RouterLink></li>
+        <li><RouterLink to="/RyfrinPortfolio/projects">PROJECTS</RouterLink></li>
+        <li><RouterLink to="/RyfrinPortfolio/about">ABOUT</RouterLink></li>
+        <li><RouterLink to="/RyfrinPortfolio/contact">CONTACT</RouterLink></li>
       </ul>
       <button class="darkmode-toggle" @click="toggleDark" :title="isDark ? 'Switch to Light Mode' : 'Switch to Dark Mode'">
         {{ isDark ? '〣( ºΔº )〣' : '(－－) zzZ' }}
