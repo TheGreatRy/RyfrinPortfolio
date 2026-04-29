@@ -10,7 +10,7 @@
         </li>
         <li>
           <strong>LinkedIn:</strong>
-          <a href="https://www.linkedin.com/in/ry-ellender" target="_blank" rel="noopener">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/ry-ellender-a45749294/" target="_blank" rel="noopener">LinkedIn</a>
         </li>
         <li>
           <strong>GitHub:</strong>
