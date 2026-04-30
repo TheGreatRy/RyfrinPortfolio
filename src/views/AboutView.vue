@@ -4,13 +4,13 @@
     <DraggablePanel title="👤 About Me" :initial-x="0" :initial-y="0" :width="558" :height="245">
       <div class="about-section">
         <div class="about-photo">
-          <img src="/images/profile.jpg" alt="Photo of Ry" />
+          <img src="/images/profile.png" alt="Photo of Ry" />
         </div>
         <div class="about-text">
           <p>[Introduction paragraph — who you are, where you're based, and what drives you.]</p>
           <p>[Background paragraph — your education, career path, or how you got into this field.]</p>
           <p>[Personal paragraph — hobbies, interests, or what you're currently learning.]</p>
-          <a href="https://docs.google.com/document/d/1hioO0tbCnXx8LrOu3DDs9StVI7859RIG/edit?usp=sharing&ouid=104149247499884184740&rtpof=true&sd=true" class="btn btn-primary" target="_blank" rel="noopener">Download Resume</a>
+          <a href="https://1drv.ms/w/c/bf232f87442282a4/IQC-8eeHKkTIQLN1sLyBoKACAVAyAJWt-s0ZWrZDt6aegN8?e=ho9ldc" class="btn btn-primary" target="_blank" rel="noopener">Download Resume</a>
         </div>
       </div>
     </DraggablePanel>
@@ -26,7 +26,7 @@
       </div>
     </DraggablePanel>
 
-    <DraggablePanel title="💼 Experience" :initial-x="8" :initial-y="252" :width="900" :height="272">
+    <DraggablePanel title="Experience" :initial-x="8" :initial-y="252" :width="900" :height="272">
       <div class="experience-list">
         <div v-for="role in experience" :key="role.title + role.company" class="experience-item">
           <div class="experience-meta">

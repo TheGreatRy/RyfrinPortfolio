@@ -58,16 +58,16 @@ const projects = [
     tags: ['wordle', 'tetris', 'who invited this guy...?'],
     description: '2 Player Co-Op Wordle and Tetris application. This is very cool and awesome, trust',
     image: `${base}images/project2.png`,
-    demo: null,
+    demo: 'https://thegreatry.github.io/tetradle/',
     github: 'https://github.com/TheGreatRy/tetradle',
   },
   {
-    title: 'C Plus Sandbox',
+    title: '3D Tanks',
     tags: ['custom engine', 'experimental', 'variety'],
     description: "A collection of projects that allow users to interact with different simulators and games. It's meant to be messed around with no specific goal in mind",
-    image: null,
-    demo: null,
-    github: 'https://github.com/TheGreatRy/CPlusSandbox',
+    image: `${base}images/project3.png`,
+    demo: 'https://thegreatry.github.io/3DTanks/',
+    github: 'https://github.com/TheGreatRy/3DTanks',
   },
 ]
 </script>
