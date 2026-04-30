@@ -11,7 +11,7 @@
     </div>
 
     <nav class="menubar">
-      <RouterLink to="/" class="nav-logo">(ˇ▽ˇ)ノ♪♬♫ RETURN HOME ♪♬♫</RouterLink>
+      <RouterLink to="/RyfrinPortfolio/" class="nav-logo">(ˇ▽ˇ)ノ♪♬♫ RETURN HOME ♪♬♫</RouterLink>
       <ul class="nav-links">
         <li><RouterLink to="/RyfrinPortfolio/">HOME</RouterLink></li>
         <li><RouterLink to="/RyfrinPortfolio/projects">PROJECTS</RouterLink></li>

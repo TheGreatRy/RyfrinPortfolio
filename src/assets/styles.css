@@ -70,7 +70,7 @@ html { scroll-behavior: smooth; }
 
 body {
   font-family: var(--font-main);
-  font-size: 13px;
+  font-size: 14px;
   background: var(--desktop-bg);
   color: var(--sys-text);
   min-height: 100vh;
@@ -139,7 +139,7 @@ main {
   padding: 3px 8px;
   background: linear-gradient(to right, var(--title-start), var(--title-end));
   color: var(--title-text);
-  font-size: 11px;
+  font-size: 14px;
   font-weight: bold;
   cursor: move;
   user-select: none;
@@ -196,7 +196,7 @@ main {
   justify-content: center;
   background: var(--sys-gray);
   color: var(--sys-muted);
-  font-size: 11px;
+  font-size: 14px;
   font-family: var(--font-main);
   border-right: 1px solid var(--b-mid-light);
   text-align: center;
@@ -212,14 +212,14 @@ main {
 
 .project-desc {
   color: var(--sys-muted);
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.5;
   flex: 1;
 }
 
 .projects-intro {
   color: var(--sys-muted);
-  font-size: 12px;
+  font-size: 14px;
   margin-bottom: 10px;
   padding-bottom: 8px;
   border-bottom: 1px solid var(--b-mid-light);
@@ -229,7 +229,7 @@ main {
 
 .contact-blurb {
   color: var(--sys-muted);
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.6;
   margin-bottom: 12px;
   padding-bottom: 8px;
@@ -270,7 +270,7 @@ main {
 
 .title-bar-text {
   color: var(--title-text);
-  font-size: 11px;
+  font-size: 16px;
   font-weight: bold;
   letter-spacing: 0.01em;
 }
@@ -283,7 +283,7 @@ main {
 .title-btn {
   width: 16px;
   height: 14px;
-  font-size: 9px;
+  font-size: 12px;
   line-height: 1;
   cursor: pointer;
   background: var(--sys-gray);
@@ -320,7 +320,7 @@ main {
 }
 
 .nav-logo {
-  font-size: 11px;
+  font-size: 16px;
   font-weight: bold;
   color: var(--aol-blue);
   text-decoration: none;
@@ -338,7 +338,7 @@ main {
 .nav-links a {
   display: block;
   padding: 3px 10px;
-  font-size: 12px;
+  font-size: 14px;
   color: var(--sys-text);
   text-decoration: none;
   transition: background 0.1s;
@@ -360,7 +360,7 @@ main {
 
 .darkmode-toggle {
   margin-left: auto;
-  font-size: 13px;
+  font-size: 16px;
   padding: 2px 8px;
   cursor: pointer;
   background: var(--sys-gray);

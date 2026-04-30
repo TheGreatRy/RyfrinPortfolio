@@ -38,17 +38,17 @@ import DraggablePanel from '../components/DraggablePanel.vue'
 const skills = [
   {
     icon: 'ヽ(°〇°)ﾉ',
-    title: '[Skill Area 1]',
+    title: 'Coding',
     description: '[Short description of this skill or service area.]',
   },
   {
     icon: '(｡•̀ᴗ-):･ﾟ✧',
-    title: '[Skill Area 2]',
+    title: 'Art',
     description: '[Short description of this skill or service area.]',
   },
   {
     icon: '╮(︶▽︶)╭',
-    title: '[Skill Area 3]',
+    title: 'Music',
     description: '[Short description of this skill or service area.]',
   },
 ]
