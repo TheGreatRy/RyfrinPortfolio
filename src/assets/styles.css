@@ -392,7 +392,7 @@ main {
 
 .status-pane {
   flex: 1;
-  font-size: 11px;
+  font-size: 14px;
   color: var(--sys-muted);
   padding: 2px 6px;
   /* sunken inset */
@@ -514,7 +514,7 @@ main {
 }
 
 .hero-greeting {
-  font-size: 11px;
+  font-size: 12px;
   color: var(--sys-muted);
   margin-bottom: 6px;
   text-transform: uppercase;
@@ -529,14 +529,14 @@ main {
 }
 
 .hero-title {
-  font-size: 14px;
+  font-size: 16px;
   color: var(--aol-blue-hover);
   margin-bottom: 12px;
   font-weight: bold;
 }
 
 .hero-tagline {
-  font-size: 13px;
+  font-size: 14px;
   color: var(--sys-muted);
   max-width: 500px;
   margin: 0 auto 20px;
@@ -557,7 +557,7 @@ main {
 }
 
 .highlights h2 {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: bold;
   color: var(--sys-text);
   margin-bottom: 12px;
@@ -590,7 +590,7 @@ main {
   /* Win98-style group box label / caption bar */
   background: linear-gradient(to right, var(--title-start), var(--title-end));
   color: var(--title-text);
-  font-size: 11px;
+  font-size: 12px;
   font-weight: bold;
   padding: 3px 8px;
   margin-bottom: 0;
@@ -668,7 +668,7 @@ main {
   /* title bar for the card */
   background: linear-gradient(to right, var(--title-start), var(--title-end));
   color: var(--title-text);
-  font-size: 11px;
+  font-size: 14px;
   font-weight: bold;
   padding: 3px 8px;
 }
@@ -682,7 +682,7 @@ main {
 
 .project-tags {
   color: var(--aol-blue);
-  font-size: 11px;
+  font-size: 12px;
   font-weight: bold;
   padding-top: 6px;
 }
@@ -742,7 +742,7 @@ main {
 .about-text h1 {
   background: linear-gradient(to right, var(--title-start), var(--title-end));
   color: var(--title-text);
-  font-size: 11px;
+  font-size: 14px;
   font-weight: bold;
   padding: 3px 8px;
   margin-bottom: 0;
@@ -767,7 +767,7 @@ main {
 }
 
 .skills-section h2 {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: bold;
   color: var(--sys-text);
   margin-bottom: 10px;
@@ -793,7 +793,7 @@ main {
 .skill-group h3 {
   background: var(--sys-gray-dark);
   color: var(--sys-text);
-  font-size: 11px;
+  font-size: 14px;
   font-weight: bold;
   padding: 3px 8px;
   border-bottom: 1px solid var(--b-dark);
@@ -822,7 +822,7 @@ main {
 }
 
 .experience-section h2 {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: bold;
   color: var(--sys-text);
   margin-bottom: 10px;
@@ -850,17 +850,17 @@ main {
 
 .experience-date {
   color: #b0c8e8;
-  font-size: 11px;
+  font-size: 12px;
 }
 
 .experience-company {
   color: var(--title-text);
-  font-size: 11px;
+  font-size: 12px;
   font-weight: bold;
 }
 
 .experience-item h3 {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: bold;
   color: var(--aol-blue);
   padding: 8px 12px 4px;
@@ -903,7 +903,7 @@ main {
 .contact-intro h1 {
   background: linear-gradient(to right, var(--title-start), var(--title-end));
   color: var(--title-text);
-  font-size: 11px;
+  font-size: 14px;
   font-weight: bold;
   padding: 3px 8px;
 }
@@ -950,7 +950,7 @@ main {
 .form-group { display: flex; flex-direction: column; gap: 3px; }
 
 .form-group label {
-  font-size: 11px;
+  font-size: 12px;
   font-weight: bold;
   color: var(--sys-text);
 }
