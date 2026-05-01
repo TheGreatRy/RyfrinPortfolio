@@ -39,17 +39,17 @@ const skills = [
   {
     icon: 'ヽ(°〇°)ﾉ',
     title: 'Coding',
-    description: '[Short description of this skill or service area.]',
+    description: 'I love building things from the ground up! Self made methods and functionality is really rewarding to me :)',
   },
   {
     icon: '(｡•̀ᴗ-):･ﾟ✧',
-    title: 'Art',
-    description: '[Short description of this skill or service area.]',
+    title: 'Artistic',
+    description: 'Drawing, Storytelling, Music: the trifecta of my creative passions. { FYI, I play the flute ;) } ',
   },
   {
     icon: '╮(︶▽︶)╭',
-    title: 'Music',
-    description: '[Short description of this skill or service area.]',
+    title: 'Determination',
+    description: 'If there\'s a problem, I dig for a solution. If there\'s a question, I scour for the answer. If there\'s a task, I have a destination =v=',
   },
 ]
 </script>
