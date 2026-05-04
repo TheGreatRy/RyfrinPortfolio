@@ -1,7 +1,12 @@
 # Ryfrin Portfolio
-Welcome to the repo of my portfolio website! This contains the source code and assests it uses and is deployed directly from this repo
+⚠️Some elements or features may not work as intended. Please pardon the bugs!⚠️
+
+Welcome to the repository of my portfolio website!
 
 You can view the website at https://thegreatry.github.io/RyfrinPortfolio/
 
 ## Info
-This website was built with [Vue](https://vuejs.org) and assisted development with [Claude](https://claude.ai)
+- IDE: VSCode
+- Language: [Vue](https://vuejs.org)
+- Deployment: GitHub Pages
+- Assited development with [Claude](https://claude.ai)
